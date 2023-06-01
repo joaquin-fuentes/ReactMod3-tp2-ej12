@@ -1,4 +1,4 @@
-# ReactMod3-tp2-ej11
+# ReactMod3-tp2-ej12
 En este repositorio se encuentra el Ejercicio 12 del Trabajo Practico Numero 2 del Modulo 3 del curso de FullStack - RollingCode
 
 # Instrucciones de uso
